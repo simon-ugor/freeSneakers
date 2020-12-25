@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/freeSneakers/static/css/main.9843c4c4.chunk.css",
-    "main.js": "/freeSneakers/static/js/main.35b1aa15.chunk.js",
-    "main.js.map": "/freeSneakers/static/js/main.35b1aa15.chunk.js.map",
+    "main.css": "/freeSneakers/static/css/main.a3c8956c.chunk.css",
+    "main.js": "/freeSneakers/static/js/main.371c31cf.chunk.js",
+    "main.js.map": "/freeSneakers/static/js/main.371c31cf.chunk.js.map",
     "runtime-main.js": "/freeSneakers/static/js/runtime-main.ead968b2.js",
     "runtime-main.js.map": "/freeSneakers/static/js/runtime-main.ead968b2.js.map",
     "static/js/2.5642af5c.chunk.js": "/freeSneakers/static/js/2.5642af5c.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.b0b34229.chunk.js": "/freeSneakers/static/js/3.b0b34229.chunk.js",
     "static/js/3.b0b34229.chunk.js.map": "/freeSneakers/static/js/3.b0b34229.chunk.js.map",
     "index.html": "/freeSneakers/index.html",
-    "static/css/main.9843c4c4.chunk.css.map": "/freeSneakers/static/css/main.9843c4c4.chunk.css.map",
+    "static/css/main.a3c8956c.chunk.css.map": "/freeSneakers/static/css/main.a3c8956c.chunk.css.map",
     "static/js/2.5642af5c.chunk.js.LICENSE.txt": "/freeSneakers/static/js/2.5642af5c.chunk.js.LICENSE.txt",
     "static/media/index.css": "/freeSneakers/static/media/light.05518b75.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.ead968b2.js",
     "static/js/2.5642af5c.chunk.js",
-    "static/css/main.9843c4c4.chunk.css",
-    "static/js/main.35b1aa15.chunk.js"
+    "static/css/main.a3c8956c.chunk.css",
+    "static/js/main.371c31cf.chunk.js"
   ]
 }
