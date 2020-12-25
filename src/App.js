@@ -27,7 +27,7 @@ function App() {
       <Router>
         <Header />
         <Switch>
-          <Route exact path="freeSneakers/" component={Homepage} />
+          <Route exact path="/freeSneakers/" component={Homepage} />
           <Route exact path="/privacypolicy" component={PrivacyPolicy} />
           <Route exact path="/blog" component={Blog} />
           <Route exact path="/termsandconditions" component={TermsConditions} />
