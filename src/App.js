@@ -27,7 +27,7 @@ import { useEffect } from "react"
 function App() {
 
   useEffect(() => {
-    ReactGa.initialize("G-FGP6D5FZRR")
+    ReactGa.initialize("G-W7Y5Y3CJ7V")
     ReactGa.pageview(window.location.pathname + window.location.search)
   }, [])
 
