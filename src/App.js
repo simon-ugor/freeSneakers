@@ -20,8 +20,18 @@ import JerryLorenzo from "./components/Blogposts/JerryLorenzo.js"
 import PumaSuede from "./components/Blogposts/PumaSuede.js"
 // importing React Router
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom"
+// importing Google Analytics
+import ReactGa from "react-ga"
+import { useEffect } from "react"
 
 function App() {
+
+  useEffect(() => {
+    ReactGa.initialize("G-FGP6D5FZRR")
+    ReactGa.pageview(window.location.pathname + window.location.search)
+  }, [])
+
+
   return (
     <div className="App">
       <Router>
