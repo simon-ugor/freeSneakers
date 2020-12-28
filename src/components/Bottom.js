@@ -8,15 +8,15 @@ const Bottom = () => {
             <div className="bottom-div">
 
                 <div className="bottom-div1">
-                    <a className="link" href="/blog">Blog</a>
+                    <Link className="link" to="/blog">Blog</Link>
                 </div>
 
                 <div className="bottom-div2">
-                    <a className="link" href="/">Homepage</a>
+                    <Link className="link" to="/">Homepage</Link>
                 </div>
 
                 <div className="bottom-div3">
-                    <a className="link" href="/aboutus">About Us</a>
+                    <Link className="link" to="/aboutus">About Us</Link>
                 </div>
 
             </div>
