@@ -1,6 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://freesneakers.xyz/</loc>
-  </url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url> <loc>https://www.freesneakers.xyz/</loc> </url>
+<url> <loc>https://www.freesneakers.xyz/privacypolicy</loc> </url>
+<url> <loc>https://www.freesneakers.xyz/blog</loc> </url>
+<url> <loc>https://www.freesneakers.xyz/termsandconditions</loc> </url>
+<url> <loc>https://www.freesneakers.xyz/aboutus</loc> </url>
+<url> <loc>https://www.freesneakers.xyz/contactus</loc> </url>
+<url> <loc>https://www.freesneakers.xyz/2021SneakerTrendPredictions</loc> </url>
+<url> <loc>https://www.freesneakers.xyz/2021DesignersToWatch</loc> </url>
+<url> <loc>https://www.freesneakers.xyz/mostValuableSneaker</loc> </url>
+<url> <loc>https://www.freesneakers.xyz/bestNikeDunk</loc> </url>
+<url> <loc>https://www.freesneakers.xyz/sneakerBrands</loc> </url>
+<url> <loc>https://www.freesneakers.xyz/newBalance</loc> </url>
+<url> <loc>https://www.freesneakers.xyz/materialMatters</loc> </url>
+<url> <loc>https://www.freesneakers.xyz/colorwayCorral</loc> </url>
+<url> <loc>https://www.freesneakers.xyz/jerryLorenzo</loc> </url>
+<url> <loc>https://www.freesneakers.xyz/pumaSuede</loc> </url>
 </urlset>
